@@ -1,0 +1,121 @@
+.divh{
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+  margin-top: 70px;
+  text-decoration: #21367c;
+}
+
+.body1{
+  background-size: 300px;
+  background-color: #c5dedd;
+}
+.body2{
+  background-color: #c5dedd;
+}
+
+.body3{
+  text-align: center;
+  background-color: #c5dedd;
+}
+.az{
+  height: 700px;
+
+}
+
+
+.gotvach{
+font-size: 1.5rem;
+margin-bottom: 30px;
+margin-top: 40px;
+}
+.divs{
+  text-align: center;
+}
+
+.med{
+  height: 700px;
+  
+
+}
+.mar2{
+  height: 300px;
+  
+}
+
+.mar1{
+height: 300px;
+}
+
+.k1{
+  height:700px;
+}
+
+.rabota{
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+.mesta{
+  text-align: center;
+  font-size: 1.5rem;
+  color: #21367c;
+  marker: none;
+}
+
+
+.cont{
+  background-size: 15px;
+}
+
+.btn{
+  margin-top: 50px;
+}
+
+.hzad{
+  font-family: 'Sacramento', cursive;
+  font-size: 3rem;
+  position: relative;
+  bottom: 100px;
+}
+.sliv{
+  font-size: 2rem;
+}
+.logo{
+  height: 50px;
+  margin-left: 30px;
+}
+.btn-dark{
+  margin-top: 30px ;
+}
+
+.h1h{
+  font-size: 4rem;
+  margin-top: 50px ;
+  font-family: fantasy;
+}
+.form{
+ position: relative;
+ width: 50%;
+ position:realtive;
+ background-color: #21367c;
+ margin-left: 480px;
+}
+.fb{
+  height: 25px;
+  padding-right: 10px;
+}
+.insta{
+  height: 25px;
+  
+}
+.fot{
+ margin-left: 44%;
+ padding-right: 1rem;
+ position: relative;
+}
+.cr{
+  color: #c5dedd;
+  position: relative;
+  bottom: -10px;
+  padding-right: 5px;
+}
